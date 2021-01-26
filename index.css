@@ -1,0 +1,33 @@
+body{
+background-image: url(foto/background.jpg);
+}
+.semiopacity {
+  padding:100px; 
+  background: url(foto/qsqs1.png); 
+  }
+
+header{
+width:700px;
+box-shadow:
+2px 2px 2px 3px #ffffff,
+-2px 2px 2px 3px #ffffff,
+2px -2px 2px 3px #ffffff,
+-2px -2px 2px 3px #ffffff;
+}
+#texter{
+background-image: url(foto/qsqs1.png);
+width:94%;
+margin-left:3%;
+}
+#text{
+width:90%;
+margin-left:5%;
+text-align:center;
+font-size:20px;
+}
+ul{
+text-align:left;
+}
+footer{
+margin-left:15%;
+}
